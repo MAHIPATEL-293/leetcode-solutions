@@ -1,9 +1,5 @@
 # leetcode-solutions
 Daily LeetCode solutions to improve problem-solving and data structures &amp; algorithms skills.
-# LeetCode Solutions 🚀
-
-This repository contains my daily LeetCode solutions to improve
-problem-solving skills and strengthen Data Structures & Algorithms.
 
 ## 📌 What you'll find here
 - Daily LeetCode problem solutions
